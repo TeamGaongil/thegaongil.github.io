@@ -1,0 +1,27 @@
+{
+  "name": "thegaongil.github.io",
+  "authors": [
+    "thegaongil <thegaongil@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
