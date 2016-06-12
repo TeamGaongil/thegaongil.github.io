@@ -9,7 +9,7 @@ npm-debug.log*
 node_modules
 
 #bower
-bower_components
+#bower_components
 
 # Runtime data
 pids
